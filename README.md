@@ -1,4 +1,3 @@
-# Next-Video-Frame-Prediction-using-LSTM-PREDRNN--TRANSFORMER
 # UCF101 Action Recognition and Frame Prediction
 
 ## Overview
